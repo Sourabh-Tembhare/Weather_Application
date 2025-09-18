@@ -25,15 +25,6 @@ This project fetches real-time weather data from the [Visual Crossing Weather AP
 🎥 Watch the tutorial video here: [YouTube Link](https://youtu.be/tLvOKXTYQ88?si=osptXOvhx5HU2L5B)
 
 ---
-
-## 📂 Project Structure
-📦 Weather-App
-┣ 📜 index.html
-┣ 📜 style.css
-┣ 📜 script.js
-┗ 📜 README.md     
-
----
 ## ⚙️ How It Works
 1. User enters a location in the input box.
 2. The app fetches weather data from Visual Crossing API using **Fetch API**.
